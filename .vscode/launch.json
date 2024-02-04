@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/archit/Documents/GitHub/Around-View-Monitor/avm/splicer",
+      "program": "/Users/archit/Documents/GitHub/Around-View-Monitor/avm/splicer/build/Debug/outDebug"
+    }
+  ]
+}
