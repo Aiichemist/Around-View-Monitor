@@ -1,0 +1,1 @@
+{"version": "2.0.0","tasks": [{"label": "Sleepdelay3","type": "shell","command": "sleep 3","group": "none","presentation": {"reveal": "silent","panel": "new"}},{"label": "Sleepdelay4","type": "shell","command": "sleep 4","group": "none","presentation": {"reveal": "silent","panel": "new"}}]}
